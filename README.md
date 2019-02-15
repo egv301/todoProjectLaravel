@@ -47,4 +47,4 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Ask a question?
 
-If you have any query please contact at egv301@gmail.com
+If you have any quesions please contact at egv301@gmail.com
